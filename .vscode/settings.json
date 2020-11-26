@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/moringa/Desktop/password-lock-ip/virtual/bin/python2.7",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}

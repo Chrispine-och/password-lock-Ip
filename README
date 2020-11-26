@@ -1,0 +1,45 @@
+## The Name of the software
+password-locker
+
+## Developer
+chrispin ochieng
+
+## App description
+
+is a project that allows users to store various account  password under one roof 
+not forgetting  how to negerate  them in a random manner
+
+
+## Technology used 
+
+python3.8
+
+## Bugs
+
+The project is not fully functionable 
+
+## Collaboration
+
+for any assistance mail me at;
+chrisochieng150@gmail.com
+
+## Features of the project
+
+~ Login 
+~ Create new account for user
+~ Generate passwords
+~ Generate new password
+~ Display the saved passwords for the user
+~ Delete cridential
+~ Exit the page after you done
+
+
+## Setup/Installation requirements
+Clone the repository from github
+ https://github.com/Chrispine-och/python-IP1.git
+
+cd into the project folder and open in the text editor code.
+
+Run command run.py to lauch the project
+
+
